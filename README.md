@@ -7,9 +7,9 @@
 
   [🤖 Princípios e Aprendizagem com Inteligência Artificial 🧠](./NotebookLM/README.md)
 
-  [🐧 O Essencial Sobre Linux e Máquinas Virtuais ⚙️](./Linux e Máquinas Virtuais/README.md)
+  [🐧 O Essencial Sobre Linux e Máquinas Virtuais ⚙️](./Linux-e-Maquinas-Virtuais/README.md)
 
-  [🔐 Fundamentos de Cibersegurança 🛡️](./Cibersegurnaca/README.md/)
+  [🔐 Fundamentos de Cibersegurança 🛡️](./CiberSegurnaca/README.md/)
 
   [🕵️‍♂️ Hacking Ético: Vulnerabilidades e Testes de Invasão 🔍](./Hacking-Etico/README.md/)
 
