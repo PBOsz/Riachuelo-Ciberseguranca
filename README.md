@@ -3,7 +3,7 @@
 
 <p>
 <strong>
- Neste bootcamp nos foi apresentados os conceitos em
+ Neste <a href="./">bootcamp</a> nos foi apresentados os conceitos em
 
   [🤖 Princípios e Aprendizagem com Inteligência Artificial 🧠](./NotebookLM/README.md)
 
