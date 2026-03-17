@@ -7,12 +7,12 @@
 
   [🤖 Princípios e Aprendizagem com Inteligência Artificial 🧠](./NotebookLM/README.md)
 
-  [🐧 O Essencial Sobre Linux e Máquinas Virtuais ⚙️](./Riachuelo-Ciberseguranca/)
+  [🐧 O Essencial Sobre Linux e Máquinas Virtuais ⚙️](./Linux e Máquinas Virtuais/README.md)
 
-  [🔐 Fundamentos de Cibersegurança 🛡️](./Riachuelo-Ciberseguranca/)
+  [🔐 Fundamentos de Cibersegurança 🛡️](./Cibersegurnaca/README.md/)
 
-  [🕵️‍♂️ Hacking Ético: Vulnerabilidades e Testes de Invasão 🔍](./Riachuelo-Ciberseguranca/)
+  [🕵️‍♂️ Hacking Ético: Vulnerabilidades e Testes de Invasão 🔍](./Hacking-Etico/README.md/)
 
-  [🛡️ Avançando na Análise e Proteção de Ataques Cibernéticos 🚨](./Riachuelo-Ciberseguranca/)
+  [🛡️ Avançando na Análise e Proteção de Ataques Cibernéticos 🚨](./Analise-e-Protecao-de-CiberAtaques/README.md)
 </strong>
 </p>
