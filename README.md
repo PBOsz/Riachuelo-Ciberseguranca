@@ -9,7 +9,7 @@
 
   [🐧 O Essencial Sobre Linux e Máquinas Virtuais ⚙️](./Linux-e-Maquinas-Virtuais/README.md)
 
-  [🔐 Fundamentos de Cibersegurança 🛡️](./CiberSegurnaca/README.md/)
+  [🔐 Fundamentos de Cibersegurança 🛡️](./CiberSeguranca/README.md/)
 
   [🕵️‍♂️ Hacking Ético: Vulnerabilidades e Testes de Invasão 🔍](./Hacking-Etico/README.md/)
 
