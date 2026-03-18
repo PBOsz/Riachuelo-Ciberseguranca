@@ -3,7 +3,7 @@
 
 <p>
 <strong>
- Neste <a href="https://www.dio.me/bootcamp/riachuelo-ciberseguranca">bootcamp</a> nos foi apresentados os conceitos em
+ Neste <a href="https://www.dio.me/bootcamp">bootcamp</a> nos foi apresentados os conceitos em
 
   [🤖 Princípios e Aprendizagem com Inteligência Artificial 🧠](./NotebookLM/README.md)
 
