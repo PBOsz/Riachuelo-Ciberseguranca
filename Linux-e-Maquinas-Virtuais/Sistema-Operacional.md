@@ -1,4 +1,4 @@
-<H1><b>O que é um sistema operacional</b>/H1>
+<H1><b>O que é um sistema operacional</b></H1>
 <p>
   Um sistema  operacional é um software, ou um conjunto de software, onde tem a função de gerenciar e administrar recursos de um sistema.
   Os recursos que geralmente são gerenciados são: Componentes de Hardware, sistemas de arquivos, programas de terceiros, etc.
