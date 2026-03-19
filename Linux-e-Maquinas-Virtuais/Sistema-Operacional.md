@@ -9,7 +9,7 @@
   </p>
 
   <H2><b>- Kernel -</b></H2>
-  O responsável por "traduzir" o que nós fazemos na tela para dentro do hardware é o chamado
+  O responsável por "traduzir" informações a nível de hardware para o sistema operacional e dai é quando nós vimos na tela, e quem cuida disso é o
   <strong>Kernel</strong> que faz a gerencia das tarefas cruciais, mas o que ele gerencia exatamente? Não se acanhe, segue um exemplo:
   -Estabelecer a camada de abstração de baixo nível (linguagem de máquina) com o hardware.
   -Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída.
