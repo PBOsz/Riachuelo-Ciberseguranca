@@ -19,7 +19,9 @@ qua 22 abr 2026 04:27:25 UTC
 root@ubuntu-dio:~#"
 </pre>
 O próximo comando que vamos ver é a limpeza da tela, usamos o seguinte:
+<pre>
 clear
+</pre>
 Com ele, limpamos o nosso terminal caso tenha muito conteúdo que não faz mais sentido vermos, ele vai limpar a tela inteira, então caso tenha algo que precisa na tela tenha ciencia que ele vai limpar.
 *Um atalho legal para usarmos é o seguinte: CRTL-Esquerdo + L essa combinação de teclas também vai limpar o terminal para você*
 
