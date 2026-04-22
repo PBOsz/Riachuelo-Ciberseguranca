@@ -5,14 +5,14 @@
   
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/O-que-e-linux.md">O que é o Linux<br></a>
   
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Linux-Desktop-e-Linux-Server">Diferenças entre o Linux Desktop e Linux Server</a>
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Linux-Desktop-e-Linux-Server.md">Diferenças entre o Linux Desktop e Linux Server</a>
 
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Acesso-Remoto">Acesso Remoto</a>
 
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Manipulacao-de-Arquivos-no-Linux">Manipulação de Arquivos no Linuxo</a>
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Manipulacao-de-Arquivos-no-Linux.md">Manipulação de Arquivos no Linuxo</a>
 
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Gerenciamento-de-usuarios-no-Linux
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Gerenciamento-de-usuarios-no-Linux.md
 ">Gerenciamento de usuários no Linuxo</a>
 
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/CHALLENGE-Comandos-de-Linux-com-Python">*CHALLENGE: Comandos de Linux com Python*o</a>
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/CHALLENGE-Comandos-de-Linux-com-Python.md">*CHALLENGE: Comandos de Linux com Python*o</a>
 </p>
