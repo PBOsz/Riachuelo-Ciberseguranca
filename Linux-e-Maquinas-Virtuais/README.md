@@ -9,7 +9,7 @@
 
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Acesso-Remoto">Acesso Remoto</a>
 
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Manipulacao-de-Arquivos-no-Linux.md">Manipulação de Arquivos no Linuxo</a>
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Manipulacao-de-Arquivos-no-Linux.md">Manipulação de Arquivos no Linux</a>
 
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Gerenciamento-de-usuarios-no-Linux.md
 ">Gerenciamento de usuários no Linuxo</a>
