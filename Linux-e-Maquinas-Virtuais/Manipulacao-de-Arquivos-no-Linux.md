@@ -12,9 +12,10 @@ No usuário root faremos os comandos para conhecermos, lembrando que TODO comand
 Vamos iniciar com o mais básico de todos, ver o dia e horário atual do sistema, para isso usamos o comando:
 date
 *não precisa ser root*
-A saída esperada é:<br>
-<pre> "root@ubuntu-dio:~# date<br>
-qua 22 abr 2026 04:27:25 UTC<br>
+A saída esperada é:
+<pre>
+ root@ubuntu-dio:~# date
+qua 22 abr 2026 04:27:25 UTC
 root@ubuntu-dio:~#"
 </pre>
 O próximo comando que vamos ver é a limpeza da tela, usamos o seguinte:
