@@ -13,10 +13,10 @@ Vamos iniciar com o mais básico de todos, ver o dia e horário atual do sistema
 date
 *não precisa ser root*
 A saída esperada é:<br>
-"root@ubuntu-dio:~# date<br>
+<pre> "root@ubuntu-dio:~# date<br>
 qua 22 abr 2026 04:27:25 UTC<br>
 root@ubuntu-dio:~#"
-
+</pre>
 O próximo comando que vamos ver é a limpeza da tela, usamos o seguinte:
 clear
 Com ele, limpamos o nosso terminal caso tenha muito conteúdo que não faz mais sentido vermos, ele vai limpar a tela inteira, então caso tenha algo que precisa na tela tenha ciencia que ele vai limpar.
