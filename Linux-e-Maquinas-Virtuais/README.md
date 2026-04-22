@@ -12,7 +12,7 @@
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Manipulacao-de-Arquivos-no-Linux.md">Manipulação de Arquivos no Linux</a>
 
   <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/Gerenciamento-de-usuarios-no-Linux.md
-">Gerenciamento de usuários no Linuxo</a>
+">Gerenciamento de usuários no Linux</a>
 
-  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/CHALLENGE-Comandos-de-Linux-com-Python.md">*CHALLENGE: Comandos de Linux com Python*o</a>
+  <a href="https://github.com/PBOsz/Riachuelo-Ciberseguranca/blob/main/Linux-e-Maquinas-Virtuais/CHALLENGE-Comandos-de-Linux-com-Python.md">*CHALLENGE: Comandos de Linux com Python*</a>
 </p>
