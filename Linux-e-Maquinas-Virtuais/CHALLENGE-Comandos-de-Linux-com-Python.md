@@ -28,17 +28,17 @@ A tabela abaixo apresenta exemplos de entrada e saída:
 
 def descrever_autenticacao(tipo):
     if tipo == "Senha":
-        return "Combinacao secreta usada para acessar sistemas"
+        return "-------------"
     
     # TODO: complete as demais condições
     elif tipo == "MFA":
-        return "Uso de dois ou mais fatores de verificacao"
+        return "-------------"
     
     elif tipo == "Biometria":
-        return "Identificacao baseada em caracteristicas fisicas"
+        return "-------------"
     
     elif tipo == "Token":
-        return "Codigo temporario para validacao de acesso"
+        return "-------------"
 
 print(descrever_autenticacao(entrada))
   
@@ -68,17 +68,17 @@ A tabela abaixo apresenta exemplos de entrada e saída:
 
 def descrever_pratica(pratica):
     if pratica == "Backup":
-        return "Copia de seguranca dos dados"
+        return "-------------"
     
     # TODO: complete as demais práticas
     elif pratica == "Atualizacao":
-        return  "Correcao de falhas e melhorias no sistema"
+        return  "-------------"
     
     elif pratica == "Firewall":
-        return  "Controle de trafego de rede"
+        return  "-------------"
     
     elif pratica == "Antivirus":
-        return "Deteccao e remocao de softwares maliciosos"
+        return "-------------"
 
 print(descrever_pratica(entrada))
 </pre>
