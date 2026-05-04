@@ -26,5 +26,24 @@ Com ele, limpamos o nosso terminal caso tenha muito conteúdo que não faz mais 
 \*Um atalho legal para usarmos é o seguinte: CRTL-Esquerdo + L essa combinação de teclas também vai limpar o terminal para você\*
 
 
+Vamos falar agora sobre as permissões no sistema do linux, com um comando simples para ver as permissões vamos exemplificar.
+<pre>ls -l</pre>
+Com esse comando a saída esperada é:
+<pre>┌─[live@parrot]─[~]
+└──╼ $ls -l
+total 0
+drwx------ 2 live live  80 May  4 16:01 Desktop
+drwx------ 2 live live  60 May  4 16:00 Documents
+drwx------ 2 live live  40 May  4 16:00 Downloads
+drwx------ 2 live live  40 May  4 16:00 Music
+drwx------ 2 live live  40 May  4 16:00 Pictures
+drwx------ 2 live live 580 May  4 16:00 Templates
+drwx------ 2 live live  40 May  4 16:00 Videos
+┌─[live@parrot]─[~]
+└──╼ $</pre>
+Veja, que nos temos letras estranhas ao lado esquerdo dos diretorios... Essas letras são o que indica as permissões, isso é mostrado devido ao argumento "-l".
+Temos 3 colunas de permissões, no qual a primeira letra mostra se é diretorio ou não, evidenciado pela letra "d" no começo.<br>
+drwx------ 2 live live  80 May  4 16:01 Desktop
+
 
 <p>
