@@ -53,4 +53,46 @@ print(descrever_autenticacao(entrada))
   
 </pre>
 
+<pre>
+  Desafio 2
+Uma empresa sofreu incidentes simples por falta de padronização e decidiu reforçar boas práticas de segurança no dia a dia do time. Para isso, criou um treinamento automatizado: ao receber o nome de uma prática, o programa deve retornar sua descrição correta. Sua missão é implementar esse programa.
+
+Implemente um programa que leia uma string com o nome da prática e retorne a descrição correspondente. Considere apenas: Backup, Atualização, Firewall e Antivírus. Não utilize bibliotecas externas.
+
+Entrada
+Uma única linha contendo o nome de uma prática de segurança.
+
+Saída
+Uma única linha com a descrição correspondente à prática informada.
+
+Exemplos
+A tabela abaixo apresenta exemplos de entrada e saída:
+
+Entrada	Saída
+Backup	Copia de seguranca dos dados
+Atualizacao	Correcao de falhas e melhorias no sistema
+Firewall	Controle de trafego de rede
+Antivirus	Deteccao e remocao de softwares maliciosos
+  
+  
+  entrada = input()
+
+def descrever_pratica(pratica):
+    if pratica == "Backup":
+        return "Copia de seguranca dos dados"
+    
+    # TODO: complete as demais práticas
+    elif pratica == "Atualizacao":
+        return  "Correcao de falhas e melhorias no sistema"
+    
+    elif pratica == "Firewall":
+        return  "Controle de trafego de rede"
+    
+    elif pratica == "Antivirus":
+        return "Deteccao e remocao de softwares maliciosos"
+
+print(descrever_pratica(entrada))
+</pre>
+
+
 <p>
