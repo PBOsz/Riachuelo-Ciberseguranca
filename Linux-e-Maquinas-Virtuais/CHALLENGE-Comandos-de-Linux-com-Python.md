@@ -3,12 +3,14 @@
 <p>
 
 Nesta lição, iremos realizar o desafio que foi proposto no curso.
-O desafio é o seguinte:
 
 Desafio
-Em uma empresa de tecnologia, o time de suporte está criando um treinamento rápido para novos colaboradores sobre métodos de autenticação. Para reduzir erros no atendimento e reforçar boas práticas, cada participante deve identificar corretamente a descrição de um método ao receber seu nome. Sua missão é implementar um programa que receba o tipo de autenticação e retorne a descrição correspondente.
+Em uma empresa de tecnologia, o time de suporte está criando um treinamento rápido para novos colaboradores sobre métodos de autenticação.
+Para reduzir erros no atendimento e reforçar boas práticas, cada participante deve identificar corretamente a descrição de um método ao receber seu nome.
+Sua missão é implementar um programa que receba o tipo de autenticação e retorne a descrição correspondente.
 
-Implemente um programa que leia uma string com o nome do método de autenticação e retorne sua descrição. Considere apenas os conceitos: Senha, MFA, Biometria e Token. Não utilize bibliotecas externas.
+Implemente um programa que leia uma string com o nome do método de autenticação e retorne sua descrição.
+Considere apenas os conceitos: Senha, MFA, Biometria e Token. Não utilize bibliotecas externas.
 
 Entrada
 Uma única linha contendo o nome de um tipo de autenticação.
@@ -19,19 +21,8 @@ Uma única linha com a descrição correspondente ao tipo informado.
 Exemplos
 A tabela abaixo apresenta exemplos de entrada e saída:
 <pre>
-|--------------------------------------------------------------|
-| Entrada   | Saída                                            |
-|--------------------------------------------------------------|
-| Senha	    | Combinacao secreta usada para acessar sistemas   |
-| MFA	     | Uso de dois ou mais fatores de verificacao       |
-| Biometria |	Identificacao baseada em caracteristicas fisicas |
-| Token	    | Codigo temporario para validacao de acesso       |
-| -------------------------------------------------------------|
-<pre>
-
-
-Preencha conforme o enunciado acima e lógica em Python.
-<pre>
+<img width="171" height="249" alt="image" src="https://github.com/user-attachments/assets/b304ca33-3b9e-4744-85c4-376cfd6a3902" />
+  Preencha conforme o enunciado acima usando a lógica em Python.
 
   entrada = input()
 
@@ -53,27 +44,25 @@ print(descrever_autenticacao(entrada))
   
 </pre>
 
-<pre>
   Desafio 2
-Uma empresa sofreu incidentes simples por falta de padronização e decidiu reforçar boas práticas de segurança no dia a dia do time. Para isso, criou um treinamento automatizado: ao receber o nome de uma prática, o programa deve retornar sua descrição correta. Sua missão é implementar esse programa.
+  Uma empresa sofreu incidentes simples por falta de padronização e decidiu reforçar boas práticas de segurança no dia a dia do time.
+  Para isso, criou um treinamento automatizado: ao receber o nome de uma prática, o programa deve retornar sua descrição correta.
+  Sua missão é implementar esse programa.
+  Implemente um programa que leia uma string com o nome da prática e retorne a descrição correspondente.<br>
+  Considere apenas: Backup, Atualização, Firewall e Antivírus.
+  Não utilize bibliotecas externas.<br>
 
-Implemente um programa que leia uma string com o nome da prática e retorne a descrição correspondente. Considere apenas: Backup, Atualização, Firewall e Antivírus. Não utilize bibliotecas externas.
-
-Entrada
+Entrada<br>
 Uma única linha contendo o nome de uma prática de segurança.
 
-Saída
+Saída<br>
 Uma única linha com a descrição correspondente à prática informada.
 
 Exemplos
+<pre>
 A tabela abaixo apresenta exemplos de entrada e saída:
-
-Entrada	Saída
-Backup	Copia de seguranca dos dados
-Atualizacao	Correcao de falhas e melhorias no sistema
-Firewall	Controle de trafego de rede
-Antivirus	Deteccao e remocao de softwares maliciosos
-  
+<img width="171" height="219" alt="image" src="https://github.com/user-attachments/assets/66db2bf1-4650-4577-93e6-eee6eced505d" />
+  Preencha conforme o enunciado acima usando a lógica em Python.
   
   entrada = input()
 
